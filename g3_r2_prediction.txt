@@ -1,0 +1,1 @@
+We predict that the r2 after comparing real sales data with our predicted sales values will be 0.87.
